@@ -60,7 +60,7 @@ namespace ServerForTheLogic.Utilities
         /// <summary>
         /// The number of milliseconds between Clock "ticks."  In this case, 1 second = 1000.
         /// </summary>
-        public const int INTERVAL = 50;
+        public const int INTERVAL = 250;
 
         private SimulationStateQueue FullUpdate;
 
